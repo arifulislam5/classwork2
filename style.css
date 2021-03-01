@@ -1,0 +1,13 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+td{
+    text-align: center;
+    padding: 10px;
+}
+.evening-class{
+    background-color: gray;
+}
+tbody{
+    align-items: center;
+}
